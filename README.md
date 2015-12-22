@@ -9,13 +9,17 @@ Use cases of this would include
 	- Additional indicator of how to effectively allocate health inspection services
 
 
-#How:
+###How:
  The goal is to develop a corpus of customer reviews and apply NLP (Natural Language Processing) techniques to see if they are meaningfully correlated with a restaurant's health score. 
 
 **Tried**
+
  sentiment analysis
 
 **To Try**
+
 topic modeling (LDA)
+
+
 tf-idf
 
